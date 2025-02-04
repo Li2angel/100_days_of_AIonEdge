@@ -1,14 +1,11 @@
-# 100_days_of_ML
+# Edge-AI Smart Voice Assistant  
 
-## Week 1: Python and Machine Learning
+## Day 1: Project Setup  
 
-> A solid foundation makes a towering achievement possible.
+### Why This Step?  
+> A well-organized project structure and essential installations ensure smooth development throughout the journey.  
 
-### Day 1: Setting-up the stage
-
-**Brief Description**: Today, I set up my development environment by installing Python, Jupyter Notebook, Google Colab, and essential ML libraries. This ensures a smooth workflow for the upcoming days.
-
-Objective:
-- Install Python and set up a working environment for ML.
-- Familiarize myself with Jupyter Notebook and Google Colab.
-- Verify installations by running a simple Python script.
+### Tasks Completed  
+- Installed required libraries (`numpy`, `pandas`, `speechrecognition`, `librosa`, etc.).  
+- Created the project directory with organized folders:  
+- Verified library installations in **VS Code**. 
