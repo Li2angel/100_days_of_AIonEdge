@@ -42,3 +42,15 @@ NumPy is essential for numerical computing, matrix operations, and handling larg
 - Learn NumPy basics: Arrays, indexing, broadcasting
 - Perform matrix operations for AI data preprocessing
 - Work with NumPy for numerical computations
+
+## Day 4: Data Manipulation with Pandas
+ > A well-structured dataset is the foundation of any AI model.
+### Why This Step?
+
+Pandas is essential for handling structured data, cleaning datasets, and preparing them for AI models.
+
+Tasks Completed
+
+- Learned how to read, manipulate, and clean datasets.
+- Performed basic filtering, grouping, and transformations.
+- Saved and loaded datasets efficiently.
