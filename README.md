@@ -44,7 +44,9 @@ NumPy is essential for numerical computing, matrix operations, and handling larg
 - Work with NumPy for numerical computations
 
 ## Day 4: Data Manipulation with Pandas
+
  > A well-structured dataset is the foundation of any AI model.
+
 ### Why This Step?
 
 Pandas is essential for handling structured data, cleaning datasets, and preparing them for AI models.
@@ -54,3 +56,17 @@ Tasks Completed
 - Learned how to read, manipulate, and clean datasets.
 - Performed basic filtering, grouping, and transformations.
 - Saved and loaded datasets efficiently.
+
+## Day 5: Data Visualization with Matplotlib & Seaborn
+
+> Good visualizations turn raw data into powerful insights.
+
+### Why This Step?
+
+Visualizing data helps uncover patterns, trends, and insights that improve AI model performance.
+
+Tasks to Complete
+
+- Learn basic plots: Line, Bar, Histogram, Scatter, and Box plots.
+- Use Seaborn for more advanced visualizations.
+- Customize plots for better interpretability.
