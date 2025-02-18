@@ -70,3 +70,17 @@ Tasks to Complete
 - Learn basic plots: Line, Bar, Histogram, Scatter, and Box plots.
 - Use Seaborn for more advanced visualizations.
 - Customize plots for better interpretability.
+
+## Day 6: Introduction to Machine Learning with Scikit-Learn
+
+> Machine Learning is about making predictions.
+
+### Why This Step?
+
+Now that we have learned how to manipulate and visualize data, it's time to step into Machine Learning! Scikit-Learn is one of the most popular Python libraries for ML.
+
+Tasks to Complete
+
+- Learn about Supervised and Unsupervised Learning.
+- Train my first Linear Regression model.
+- Understand how to evaluate models using Mean Squared Error (MSE).
